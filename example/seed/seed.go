@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/miguelmota/go-ethereum-hdwallet"
+	"github.com/dmdv/go-ethereum-hdwallet"
 )
 
 func main() {

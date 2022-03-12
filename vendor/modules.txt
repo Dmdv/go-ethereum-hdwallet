@@ -10,7 +10,7 @@ github.com/btcsuite/btcutil/bech32
 github.com/btcsuite/btcutil/hdkeychain
 # github.com/davecgh/go-spew v1.1.1
 github.com/davecgh/go-spew/spew
-# github.com/ethereum/go-ethereum v1.10.4
+# github.com/ethereum/go-ethereum v1.10.16
 github.com/ethereum/go-ethereum
 github.com/ethereum/go-ethereum/accounts
 github.com/ethereum/go-ethereum/common
@@ -33,5 +33,5 @@ github.com/tyler-smith/go-bip39/wordlists
 golang.org/x/crypto/pbkdf2
 golang.org/x/crypto/ripemd160
 golang.org/x/crypto/sha3
-# golang.org/x/sys v0.0.0-20210420205809-ac73e9fd8988
+# golang.org/x/sys v0.0.0-20210816183151-1e6c022a8912
 golang.org/x/sys/cpu
