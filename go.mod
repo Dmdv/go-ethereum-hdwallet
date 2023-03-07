@@ -9,6 +9,5 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/ethereum/go-ethereum v1.10.16
 	github.com/tyler-smith/go-bip39 v1.1.0
-	golang.org/x/crypto v0.0.0-20220312131142-6068a2e6cfdc // indirect
-	golang.org/x/sys v0.0.0-20220310020820-b874c991c1a5 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 )
